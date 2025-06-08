@@ -35,7 +35,7 @@ El LED parpadeará automáticamente con la siguiente secuencia:
 ### 📺 Simulación en Acción
 
 <div align="center">
-  <img src="blink.gif" alt="Demostración del LED parpadeando en Wokwi" width="600"/>
+  <img src="blink.gif" alt="Demostración del LED parpadeando en Wokwi" width="300"/>
   <br>
   <em>LED parpadeando conectado al pin GP5</em>
 </div>
