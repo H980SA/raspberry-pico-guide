@@ -8,4 +8,4 @@ Copia los archivos `main.py` y `diagram.json` en tu simulador de Wokwi.
 El resultado será un LED que parpadea automáticamente en el simulador.
 
 Próximamente se agregará un GIF mostrando el resultado. 
-![Blink LED Demo](./assets/blink-demo.gif)  
+![Blink LED Demo](blink.gif)  
